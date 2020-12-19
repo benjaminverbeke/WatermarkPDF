@@ -1,3 +1,8 @@
 /WatermarkPdf/bin/*
 /WatermarkPdf/obj/*
 /.vs
+/WatermarkPDF/packages/*
+/WatermarkPDF/.vs
+/WatermarkPDF/WatermarkPDF/bin
+/WatermarkPDF/WatermarkPDF/obj
+/WatermarkPDF/WatermarkPDF/WatermarkPDF.csproj.user
